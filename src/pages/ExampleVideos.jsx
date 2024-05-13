@@ -20,7 +20,7 @@ const ExampleVideos = () => {
             <div className="h-max p-5 bg-black border-b-2 border-white gap-5 md:pl-16 md:pr-16 flex flex-col md:flex-row items-center justify-between">
                 <span className="text-2xl sm:text-4xl lg:text-5xl font-bold">Sample Videos</span>
                 <div className="flex text-lg font-medium sm:text-2xl flex-col gap-2 items-center">
-                    <span className="text-center lg:text-xl xl:text-2xl">For more <br /> visit us on:</span>
+                    <span className="text-center lg:text-xl xl:text-xl">For more <br /> visit us on:</span>
                     <div className="flex flex-row gap-4">
                         <a href="https://instagram.com/socialhitmakers" target="_blank" className="hover:font-extrabold cursor-pointer">Instagram <LaunchSharpIcon sx={{color:'white'}}/></a>
                         <a href="https://www.tiktok.com/@socialhitmakers" target="_blank" className="hover:font-extrabold cursor-pointer">TikTok <LaunchSharpIcon sx={{color:'white'}}/></a>
