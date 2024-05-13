@@ -58,7 +58,7 @@ const ExampleVideos = () => {
                 >
                    <ArrowBackIcon/> Home
                 </Button>
-                <Button href="/sample-videos"
+                <Button href="/resume"
                     variant="contained" 
                     style={{ 
                         color: "black", 
@@ -76,7 +76,7 @@ const ExampleVideos = () => {
                         },
                     }}
                 >
-                    Sample Videos <ArrowForwardIcon/>
+                    Resume <ArrowForwardIcon/>
                 </Button>
             </div>
         </div>
